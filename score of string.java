@@ -9,3 +9,4 @@ class Solution {
         return score;
     }
 }
+// heck this link: https://neetcode.io/problems/score-of-a-string/question
